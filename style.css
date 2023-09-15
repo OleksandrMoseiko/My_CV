@@ -32,3 +32,40 @@
   .items {
     list-style-type: square;
   }
+
+  .bottom {
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #a29c9c;   
+  }
+
+ 
+
+  .container {
+    border: 2px solid rgb(80, 203, 214);
+      padding: 10px;
+      margin: 10px;
+      
+
+    /*border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 20px;
+    margin: 10px;*/
+   
+    width: 200px;
+    height: 200px;
+    background-image: url(./My\ photo.jpg);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+        
+  }
+
+  .table {
+    background-color: rgb(190, 246, 248);
+  }
+
+  .title {
+    background-color: rgb(51, 240, 225);
+  }
